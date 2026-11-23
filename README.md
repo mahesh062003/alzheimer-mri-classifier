@@ -58,8 +58,6 @@ compact CNN trained from scratch, not a fine-tuned backbone.
 notebooks/Alzheimer.ipynb       Loading, model, training, evaluation
 models/Alz_classifier.keras     Trained weights (Keras format)
 models/Alz_classifier.h5        Same weights, HDF5
-docs/AD detection.pdf           Project report
-docs/dcmc report.pdf            Conference report
 ```
 
 ## Dataset
