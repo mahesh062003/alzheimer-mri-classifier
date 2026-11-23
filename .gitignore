@@ -1,0 +1,16 @@
+# Dataset - download from Kaggle, see README
+new_alzheimer_cnn/
+data/
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+.ipynb_checkpoints/
+
+# OS
+Thumbs.db
+desktop.ini
+.DS_Store
