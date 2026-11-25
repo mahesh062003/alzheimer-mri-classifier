@@ -46,9 +46,13 @@ scratch rather than a fine-tuned backbone.
 
 ```
 notebooks/Alzheimer.ipynb       Loading, model, training, evaluation
-models/Alz_classifier.keras     Trained weights (Keras format)
-models/Alz_classifier.h5        Same weights, HDF5
+requirements.txt                Dependencies
 ```
+
+## Trained weights
+
+Not distributed. The notebook trains the model from scratch in 30 epochs — run
+it against the dataset below to reproduce the result.
 
 ## Dataset
 

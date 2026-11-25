@@ -24,3 +24,11 @@ desktop.ini
 *.pptx
 *.ppt
 !docs/figures/*
+
+# Trained weights are not distributed
+*.h5
+*.keras
+*.pkl
+*.pt
+*.joblib
+models/
